@@ -6,3 +6,5 @@ This project seeks to create a vector building footprint layer for the entier ci
 So far, we have completed digitization of Sanborn Fire Insurance maps for several South Side community areas including Hyde Park, Kenwood, Greater Grand Crossing, and Woodlawn.  Visualizations of our data can be found at https://chicagourbanheritage.com.  
 
 Also in the works is a paper by Parker Otto from the University of Chicago and Dr. Yue Lin from the University of Illinois: "Computational Mapping of Historic Built Environments in American Cities from Sanborn Maps: A Case from the Chicago Urban Heritage Project" which is currently undergoing revisions for Environment and Planning B: Urban Analytics and City Science.
+
+Please note our license: Attribution-NonCommercial-ShareAlike 4.0 International.
